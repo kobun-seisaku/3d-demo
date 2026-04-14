@@ -32,7 +32,7 @@
     <!-- ここが3Dモデル表示の本体 -->
     <model-viewer 
 
-      src="demoA.glb"
+      src="demo01.glb"
       <!-- 表示する3Dモデル（同じフォルダに置く） -->
 
       ar
